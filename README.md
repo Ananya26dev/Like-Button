@@ -1,0 +1,3 @@
+# Like Button
+
+This project involves building a Like button component in React that changes its appearance based on the user's interaction. The button toggles between a "liked" and "unliked" state when clicked, updating its visual style accordingly. The component also handles asynchronous API requests to register the like or unlike action on a server, showing a loading spinner during the process and handling potential errors gracefully. 
